@@ -1,2 +1,3 @@
 # Frontfund
-FrontEnd fundamentals and shit
+FrontEnd fundamentals
+
